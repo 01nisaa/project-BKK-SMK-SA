@@ -1,0 +1,26 @@
+.bgimage {
+  background-image: url(smk1.jpg);
+  background-size: cover;
+  border-bottom: 7px solid plum;
+  height: 90vh;
+  width: 100%;
+  opacity: 90%;
+  z-index: -2;
+}
+
+#projects {
+  background-color: plum;
+}
+
+.footer {
+  background-color: plum;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer p {
+  color: white;
+}
